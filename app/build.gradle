@@ -1,4 +1,13 @@
 apply plugin: 'com.android.application'
+apply plugin: 'java'
+apply plugin: 'application'
+
+
+mainClassName = "ProgramaCatalogo"
+
+run {
+    standardInput = System.in
+}
 
 android {
     compileSdkVersion 29

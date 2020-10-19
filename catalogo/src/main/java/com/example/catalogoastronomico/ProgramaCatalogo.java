@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 
 public class ProgramaCatalogo {
-
+/*
     private static Astro leeAstro(Scanner teclado, CatalogoAstronomico ca) {
 
         Astro res = null;
@@ -151,5 +151,5 @@ public class ProgramaCatalogo {
             System.out.println("Pulsa cualquier letra para continuar o elige salir (s) >");
             respuesta = teclado.next().toLowerCase();
         };
-    }
+    }*/
 }
